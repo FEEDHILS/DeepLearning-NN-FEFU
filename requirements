@@ -1,5 +1,7 @@
 numpy
 torch
+torchvision
+kagglehub
 matplotlib
 jupyterlab
 Pillow
